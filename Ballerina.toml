@@ -1,4 +1,4 @@
 [package]
-org = "beamon"
-name = "devant_demo"
+org = "tharinduwe"
+name = "ai_agent_with_mcp_poc"
 version = "0.1.0"

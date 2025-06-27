@@ -226,7 +226,7 @@ dependencies = [
 [[package]]
 org = "ballerina"
 name = "mcp"
-version = "0.4.1"
+version = "0.4.2"
 dependencies = [
 	{org = "ballerina", name = "http"},
 	{org = "ballerina", name = "jballerina.java"}
@@ -395,14 +395,14 @@ dependencies = [
 ]
 
 [[package]]
-org = "beamon"
-name = "devant_demo"
+org = "tharinduwe"
+name = "ai_agent_with_mcp_poc"
 version = "0.1.0"
 dependencies = [
 	{org = "ballerina", name = "http"},
 	{org = "ballerinax", name = "ai"}
 ]
 modules = [
-	{org = "beamon", packageName = "devant_demo", moduleName = "devant_demo"}
+	{org = "tharinduwe", packageName = "ai_agent_with_mcp_poc", moduleName = "ai_agent_with_mcp_poc"}
 ]
 
